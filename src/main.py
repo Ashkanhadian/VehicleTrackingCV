@@ -43,8 +43,8 @@ while cap.isOpened():
                 cv2.putText(frame, f'ID: {tracker.object_id}', (int(x), int(y - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color, 2)
 
                 # Draw line for object movement
-                for i in range(1, len(tracker.history)):
-                    cv2.line(frame, tracker.history[i - 1], tracker.history[i], color, 2)
+                # for i in range(1, len(tracker.history)):
+                #     cv2.line(frame, tracker.history[i - 1], tracker.history[i], color, 2)
 
         # Draw counting line
         cv2.line(frame, (0, line_position), (frame.shape[1], line_position), (0, 255, 255), 2)
