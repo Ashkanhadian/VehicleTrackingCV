@@ -1,6 +1,6 @@
 # VehicleCounter
 
-A work-in-progress vehicle and object tracking project using Kalman Filter and Hungarian Algorithm.
+A vehicle and object tracking project using Kalman Filter and Hungarian Algorithm.
 
 ## Introduction
 
