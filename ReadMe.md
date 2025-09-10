@@ -20,6 +20,6 @@ Note on Accuracy: This project uses Background Subtraction for detection, a trad
 
 ## Data used in this project
 
-The source code is available for learning and development purposes. The sample video data is owned by Vecteezy and is used under their Standard License. Please ensure you have the right to use any video you process with this tool.
+The source code is available for learning and development purposes. The sample video data is owned by Vecteezy and is used under their Standard License. Please ensure you have the right to use any video you process with this code.
 
 The video file can be downloaded from https://www.vecteezy.com/video/14055564-out-of-focus-street-traffic-high-angle-view.
